@@ -1,4 +1,6 @@
 ## 👋 Hi, I'm spacecowboy0x  
+![](https://www.codewars.com/users/spacecowboy0x/badges/micro)
+
 Windows Desktop / .NET Learner
 
 - 💻 Learning **C# / .NET** (Desktop & System Tools)
