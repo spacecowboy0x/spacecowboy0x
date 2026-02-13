@@ -35,3 +35,6 @@ Windows Desktop / .NET Learner
 
 - **FromSoftware Game Unpacker**  
   Extract game assets from Dark Souls series
+
+- **HDRSwitch**  
+  Track process and change HDR mode
